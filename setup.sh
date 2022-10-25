@@ -1,6 +1,6 @@
 sudo apt update && sudo apt upgrade -y
 sudo apt-get update && sudo apt-get upgrade -y
-git clone https://github.com/jantic/DeOldify.git DeOldify
+git clone https://github.com/SergeiSOficial/DeOldify.git DeOldify
 sudo apt install ffmpeg -y
 cd DeOldify
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
